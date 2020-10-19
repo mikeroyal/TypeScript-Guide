@@ -35,3 +35,49 @@
 [Deno](https://deno.land) is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 
 [gulp-typescript](https://github.com/ivogabe/gulp-typescript) is an TypeScript compiler for gulp with incremental compilation support.
+
+[React](https://reactjs.org/) is a declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+[React Native](https://reactnative.dev) is a framework for building native apps for iOS and Android with React.
+
+[Vue.js](http://vuejs.org/) is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+
+[Angular](https://www.angular.io/) is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+
+[Ionic Framework](https://ionicframework.com/) is a powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+
+[Stencil](https://stenciljs.com/) is a simple compiler for generating Web Components and static site generated progressive web apps (PWA). Stencil was built by the Ionic team for its next generation of performant mobile and desktop Web Components.
+
+[Storybook](https://storybook.js.org/) is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.It works with React, Vue, Angular, Ember, and other web frameworks.
+
+[Prettier](https://prettier.io/) is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+
+[Nest](https://nestjs.com/) is a framework for building efficient, scalable [Node.js](http://nodejs.org/) server-side applications. It is built with TypeScript and combines elements of Object Oriented Programming(OOP), Functional Programming, and Functional Reactive Programming(FRP).
+
+[Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped) is a repository for high quality TypeScript type definitions.
+
+[TypeORM](https://github.com/typeorm/typeorm) is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
+
+[NativeScript](https://www.nativescript.org/) empowers you to access native APIs from JavaScript directly. The framework currently provides iOS and Android runtimes for rich mobile development and can be utilized in a number of diverse use cases.
+
+[AssemblyScript](https://assemblyscript.org/) compiles a strict variant of TypeScript to [WebAssembly](http://webassembly.org/) using [Binaryen](https://github.com/WebAssembly/binaryen).
+
+[React Hook Form](https://react-hook-form.com/) is a performant, flexible and extensible forms with easy to use validation(Web + React Native).
+
+[Apollo Client](https://apollographql.com/client) is a fully-featured caching GraphQL client with integrations for React, Angular, and more. It allows you to easily build UI components that fetch data via GraphQL.
+
+[TensorFlow.js](https://js.tensorflow.org/) is an open-source WebGL hardware-accelerated JavaScript library for training and deploying machine learning models.
+
+[Rome](https://romefrontend.dev/) is a linter, compiler, bundler, and [more](https://romefrontend.dev/#development-status) for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS.
+
+[Eclipse Theia](https://github.com/eclipse-theia/theia) is an extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
+
+[InversifyJS](https://github.com/inversify/InversifyJS) is a powerful and lightweight inversion of control(IoC) container for JavaScript & Node.js apps powered by TypeScript. An IoC container uses a class constructor to identify and inject its dependencies.
+
+[Gatsby](https://www.gatsbyjs.com/) is a free and open source framework based on React that helps developers build blazing fast websites and apps.
+
+[Meteor](https://www.meteor.com/) is an ultra-simple environment for building modern web applications with JavavScript. 
+
+[TypeScript ESLint](https://typescript-eslint.io/) is a monorepo for all the tooling which enables ESLint to support TypeScript.
+
+[TS node](https://github.com/TypeStrong/ts-node) is a TypeScript execution and REPL for node.js.
